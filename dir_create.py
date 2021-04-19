@@ -5,6 +5,7 @@
 #Ask for a file name (.txt)
 #Write the sentence to the file
 #Run the program from your cmd line
+#this comment is added by dev
 
 sentence = input("Enter a sentence: ")
 sentence_length = len(sentence)
